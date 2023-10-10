@@ -16,3 +16,7 @@ const person = {
 // Display data from the object:
 document.getElementById("demo").innerHTML = person.fullName();
 ```
+
+- [ ] Turn on github pagess
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
